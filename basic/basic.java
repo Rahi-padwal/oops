@@ -1,3 +1,4 @@
+package basic;
 public class basic {
     public static void main(String[] args) {
         Student s1 = new Student(); //call the default constructor
