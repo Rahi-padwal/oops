@@ -18,3 +18,19 @@ public class mainClass {
 
 }
 }
+
+
+
+//use of super:
+//class box {
+//    double w = 10.0;   // parent's w
+//}
+
+//class boxWeight extends box {
+//    double w = 99.0;   // child's OWN w — shadows parent's w
+
+//    void show() {
+//        System.out.println(this.w);   // 99.0 → current class (boxWeight)
+//        System.out.println(super.w);  // 10.0 → parent class (box)
+//    }
+//}
